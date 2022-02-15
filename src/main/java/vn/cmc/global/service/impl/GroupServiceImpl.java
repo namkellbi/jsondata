@@ -3,7 +3,9 @@ package vn.cmc.global.service.impl;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;
+import vn.cmc.global.common.Constants;
 import vn.cmc.global.model.Department;
 import vn.cmc.global.model.Group;
 import vn.cmc.global.service.GroupService;
@@ -23,7 +25,7 @@ public class GroupServiceImpl implements GroupService {
         List<Group> result = new ArrayList<>();
         FileReader fr;
         try {
-            fr = new FileReader("src/main/resources/data.json");
+            fr = new FileReader(Constants.JSON_DATA_PATH);
             Gson gson = new Gson();
             Type classOfT = new TypeToken<List<Group>>() {
             }.getType();
@@ -43,15 +45,16 @@ public class GroupServiceImpl implements GroupService {
             List<Department> departmentList = group.getListChild();
             if (departmentList != null) {
                 for (Department dept : departmentList) {
-                    if (deptName.equals(dept.getName())) {
+                    if (StringUtils.equals(deptName, dept.getName())) {
                         department.setName(dept.getName());
                         department.setDesciption(dept.getDesciption());
                         department.setManager(dept.getManager());
+                        return department;
                     }
                 }
             }
         }
-        return department;
+        return getLeaderByGroupName(deptName);
     }
 
     @Override
@@ -64,10 +67,10 @@ public class GroupServiceImpl implements GroupService {
                 department.setName(result.get(i).getName());
                 department.setDesciption(result.get(i).getDesciption());
                 department.setManager(result.get(i).getManager());
+                return department;
             }
         }
-
-        return department;
+        return null;
     }
 
     @Override
@@ -78,8 +81,8 @@ public class GroupServiceImpl implements GroupService {
         for (Group group : result) {
             List<Department> departmentList = group.getListChild();
             if (departmentList != null) {
-                for(Department dept : departmentList){
-                    if (deptName.equals(dept.getName())) {
+                for (Department dept : departmentList) {
+                    if (StringUtils.equals(deptName, dept.getName())) {
                         department.setName(group.getName());
                         department.setDesciption(group.getDesciption());
                         department.setManager(group.getManager());

@@ -15,7 +15,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"G1",
@@ -327,19 +328,39 @@
          },
          {
             "name":"SDU",
-            "desciption":"<p>Singapore Delivery Unit</p>",
+            "desciption":"Singapore Delivery Unit",
             "manager":[
-               
-            ],
-            "listChild":null
+               {
+                  "id":null,
+                  "fullName":"Bach. Nguyen Viet - CMC Global CDO",
+                  "email":"nvbach@cmcglobal.vn",
+                  "userName":"nvbach",
+                  "gender":1,
+                  "fromDate":null,
+                  "createdDate":null,
+                  "updatedDate":null,
+                  "createdBy":null,
+                  "updatedBy":null
+               }
+            ]
          },
          {
             "name":"SBU",
-            "desciption":"<p>Singapore Business Development Unit</p>",
+            "desciption":"Singapore Business Development Unit",
             "manager":[
-               
-            ],
-            "listChild":null
+               {
+                  "id":null,
+                  "fullName":"Bach. Nguyen Viet - CMC Global CDO",
+                  "email":"nvbach@cmcglobal.vn",
+                  "userName":"nvbach",
+                  "gender":1,
+                  "fromDate":null,
+                  "createdDate":null,
+                  "updatedDate":null,
+                  "createdBy":null,
+                  "updatedBy":null
+               }
+            ]
          }
       ]
    },
@@ -671,7 +692,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"TD",
@@ -689,7 +711,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"HR",
@@ -707,7 +730,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"FC",
@@ -725,7 +749,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"ACC",
@@ -743,7 +768,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"LEG",
@@ -761,7 +787,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"SEPG",
@@ -779,7 +806,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"ADMIN",
@@ -797,7 +825,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"TDX",
@@ -815,7 +844,8 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    },
    {
       "name":"IT",
@@ -833,6 +863,7 @@
             "createdBy":null,
             "updatedBy":null
          }
-      ]
+      ],
+      "listChild":[]
    }
 ]
