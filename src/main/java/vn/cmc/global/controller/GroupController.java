@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import vn.cmc.global.common.Constants;
 import vn.cmc.global.common.Enums;
 import vn.cmc.global.common.ResponseData;
 import vn.cmc.global.model.Department;
@@ -23,10 +24,10 @@ public class GroupController {
     public ResponseData getJsonData() {
         try {
             List<Group> groups = groupService.getJsonData();
-            return new ResponseData(Enums.ResponseStatus.SUCCESS, groups);
+            return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_SUCCESS, (Department) groups);
         } catch (Exception e) {
             e.printStackTrace();
-            return new ResponseData(Enums.ResponseStatus.ERROR, e.getMessage());
+            return new ResponseData(String.valueOf(Enums.ResponseStatus.ERROR), e.getMessage());
         }
     }
 
@@ -34,10 +35,13 @@ public class GroupController {
     public ResponseData getLeaderByDeptName(@RequestParam(value = "deptName", defaultValue = "") String deptName) {
         try {
             Department dept = groupService.getLeaderByDeptName(deptName.toUpperCase());
-            return new ResponseData(Enums.ResponseStatus.SUCCESS, dept);
+            if (dept.getName()==null){
+                return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_FAILED, dept);
+            }
+            return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_SUCCESS, dept);
         } catch (Exception e) {
             e.printStackTrace();
-            return new ResponseData(Enums.ResponseStatus.ERROR, e.getMessage());
+            return new ResponseData(String.valueOf(Enums.ResponseStatus.ERROR), e.getMessage());
         }
     }
 
@@ -45,10 +49,13 @@ public class GroupController {
     public ResponseData getLeaderByGroupName(@RequestParam(value = "groupName", defaultValue = "") String groupName) {
         try {
             Department dept = groupService.getLeaderByGroupName(groupName.toUpperCase());
-            return new ResponseData(Enums.ResponseStatus.SUCCESS, dept);
+            if (dept.getName()==null){
+                return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_FAILED, dept);
+            }
+            return new ResponseData(Enums.ResponseStatus.SUCCESS,Constants.CALL_API_SUCCESS, dept);
         } catch (Exception e) {
             e.printStackTrace();
-            return new ResponseData(Enums.ResponseStatus.ERROR, e.getMessage());
+            return new ResponseData(String.valueOf(Enums.ResponseStatus.ERROR), e.getMessage());
         }
     }
 
@@ -56,10 +63,13 @@ public class GroupController {
     public ResponseData getGroupLeaderByDeptName(@RequestParam(value = "deptName", defaultValue = "") String deptName) {
         try {
             Department dept = groupService.getGroupLeaderByDeptName(deptName.toUpperCase());
-            return new ResponseData(Enums.ResponseStatus.SUCCESS, dept);
+            if (dept.getName()==null){
+                return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_FAILED, dept);
+            }
+            return new ResponseData(Enums.ResponseStatus.SUCCESS, Constants.CALL_API_SUCCESS, dept);
         } catch (Exception e) {
             e.printStackTrace();
-            return new ResponseData(Enums.ResponseStatus.ERROR, e.getMessage());
+            return new ResponseData(String.valueOf(Enums.ResponseStatus.ERROR), e.getMessage());
         }
     }
 }

@@ -1,7 +1,10 @@
 package vn.cmc.global.common;
 
+import vn.cmc.global.model.Department;
+import vn.cmc.global.model.Leader;
+
 public class ResponseData {
-    protected Object data;
+    protected Department data;
     protected String status;
     protected String message;
 
@@ -9,12 +12,12 @@ public class ResponseData {
     }
 
 
-    public ResponseData(String status, Object data) {
+    public ResponseData(String status, Department data) {
         this.data = data;
         this.status = status;
     }
 
-    public ResponseData(String status, String message, Object data) {
+    public ResponseData(String status, String message, Department data) {
         this.data = data;
         this.status = status;
         this.message = message;
@@ -25,13 +28,13 @@ public class ResponseData {
         this.message = message;
     }
 
-    public ResponseData(Enums.ResponseStatus status, String message, Object data) {
+    public ResponseData(Enums.ResponseStatus status, String message, Department data) {
         this.data = data;
         this.status = status.getStatus();
         this.message = message;
     }
 
-    public ResponseData(Enums.ResponseStatus status, Object data) {
+    public ResponseData(Enums.ResponseStatus status, Department data) {
         this.data = data;
         this.status = status.getStatus();
     }
@@ -40,7 +43,7 @@ public class ResponseData {
         return data;
     }
 
-    public ResponseData setData(Object data) {
+    public ResponseData setData(Department data) {
         this.data = data;
         return this;
     }
