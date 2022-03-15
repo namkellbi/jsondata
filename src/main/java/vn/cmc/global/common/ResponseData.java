@@ -11,7 +11,7 @@ import vn.cmc.global.model.Department;
 @AllArgsConstructor
 public class ResponseData {
     protected Object objData;
-    protected Department data1;
+    protected Department data;
     protected String status;
     protected String message;
 
@@ -27,12 +27,12 @@ public class ResponseData {
     }
 
     public ResponseData(String status, Department data) {
-        this.data1 = data;
+        this.data = data;
         this.status = status;
     }
 
     public ResponseData(String status, String message, Department data) {
-        this.data1 = data;
+        this.data = data;
         this.status = status;
         this.message = message;
     }
@@ -43,22 +43,22 @@ public class ResponseData {
     }
 
     public ResponseData(Enums.ResponseStatus status, String message, Department data) {
-        this.data1 = data;
+        this.data = data;
         this.status = status.getStatus();
         this.message = message;
     }
 
     public ResponseData(Enums.ResponseStatus status, Department data) {
-        this.data1 = data;
+        this.data = data;
         this.status = status.getStatus();
     }
 /*
     public Object getData() {
-        return data1;
+        return data;
     }
 
     public ResponseData setData(Department data) {
-        this.data1 = data;
+        this.data = data;
         return this;
     }
 
