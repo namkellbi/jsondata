@@ -1,24 +1,38 @@
 package vn.cmc.global.common;
 
+import lombok.*;
 import vn.cmc.global.model.Department;
-import vn.cmc.global.model.Leader;
 
+
+@Data
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class ResponseData {
-    protected Department data;
+    protected Object objData;
+    protected Department data1;
     protected String status;
     protected String message;
 
-    public ResponseData() {
+    public ResponseData(Enums.ResponseStatus status, String message, Object objData) {
+        this.status = status.getStatus();
+        this.message = message;
+        this.objData = objData;
     }
 
+    public ResponseData(Enums.ResponseStatus status, Object objData) {
+        this.status = String.valueOf(status);
+        this.objData = objData;
+    }
 
     public ResponseData(String status, Department data) {
-        this.data = data;
+        this.data1 = data;
         this.status = status;
     }
 
     public ResponseData(String status, String message, Department data) {
-        this.data = data;
+        this.data1 = data;
         this.status = status;
         this.message = message;
     }
@@ -29,22 +43,22 @@ public class ResponseData {
     }
 
     public ResponseData(Enums.ResponseStatus status, String message, Department data) {
-        this.data = data;
+        this.data1 = data;
         this.status = status.getStatus();
         this.message = message;
     }
 
     public ResponseData(Enums.ResponseStatus status, Department data) {
-        this.data = data;
+        this.data1 = data;
         this.status = status.getStatus();
     }
-
+/*
     public Object getData() {
-        return data;
+        return data1;
     }
 
     public ResponseData setData(Department data) {
-        this.data = data;
+        this.data1 = data;
         return this;
     }
 
@@ -68,6 +82,5 @@ public class ResponseData {
 
     public void setMessage(String message) {
         this.message = message;
-    }
-
+    }*/
 }
