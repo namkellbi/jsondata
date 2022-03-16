@@ -13,4 +13,6 @@ public interface GroupService {
     Department getLeaderByGroupName(String groupName);
 
     Department getGroupLeaderByDeptName(String deptName);
+
+    List<String> getListName();
 }

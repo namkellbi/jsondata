@@ -93,4 +93,18 @@ public class GroupServiceImpl implements GroupService {
         }
         return department;
     }
+
+    @Override
+    public List<String> getListName() {
+        List<Group> groupList = getJsonData();
+        List <String> listName = new ArrayList<String>();
+        for (Group group: groupList) {
+            listName.add(group.getName());
+            List<Department> departmentList = group.getListChild();
+            for (Department dept : departmentList) {
+                listName.add(dept.getName());
+            }
+        }
+        return listName;
+    }
 }
