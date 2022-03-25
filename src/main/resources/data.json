@@ -1,869 +1,869 @@
 [
    {
-      "name":"BOM",
-      "desciption":"",
-      "manager":[
+      "name": "BOM",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Bao. Dang Ngoc - CMC Global CEO",
-            "email":"dnbao@cmcglobal.vn",
-            "userName":"dnbao",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Bao. Dang Ngoc - CMC Global CEO",
+            "email": "dnbao@cmcglobal.vn",
+            "userName": "dnbao",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"G1",
-      "desciption":"Du3,6,8,12,15,16,18,19,20,Bu1",
-      "manager":[
+      "name": "G1",
+      "desciption": "Du3,6,8,12,15,16,18,19,20,Bu1",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Tony. Dao - CMC Global G1",
-            "email":"dtanh@cmcglobal.vn",
-            "userName":"dtanh",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Tony. Dao - CMC Global G1",
+            "email": "dtanh@cmcglobal.vn",
+            "userName": "dtanh",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[
+      "listChild": [
          {
-            "name":"DU3",
-            "description":"",
-            "manager":[
+            "name": "DU3",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Stefan. Du - CMC Global DU1.3",
-                  "email":"ddhung@cmcglobal.vn",
-                  "userName":"ddhung",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Stefan. Du - CMC Global DU1.3",
+                  "email": "ddhung@cmcglobal.vn",
+                  "userName": "ddhung",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU6",
-            "description":"",
-            "manager":[
+            "name": "DU6",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Erik. Nguyen - CMCGlobal DU6",
-                  "email":"nngiang@cmcglobal.vn",
-                  "userName":"nngiang",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Erik. Nguyen - CMCGlobal DU6",
+                  "email": "nngiang@cmcglobal.vn",
+                  "userName": "nngiang",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU8",
-            "description":"",
-            "manager":[
+            "name": "DU8",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Nhung. Nguyen Tuyet - CMCGlobal DU8",
-                  "email":"ntnhung@cmcglobal.vn",
-                  "userName":"ntnhung",
-                  "gender":0,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Nhung. Nguyen Tuyet - CMCGlobal DU8",
+                  "email": "ntnhung@cmcglobal.vn",
+                  "userName": "ntnhung",
+                  "gender": 0,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU12",
-            "description":"",
-            "manager":[
+            "name": "DU12",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Trung. Bui Xuan - CMC Global DU1.12",
-                  "email":"bxtrung@cmcglobal.vn",
-                  "userName":"bxtrung",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Trung. Bui Xuan - CMC Global DU1.12",
+                  "email": "bxtrung@cmcglobal.vn",
+                  "userName": "bxtrung",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU15",
-            "description":"",
-            "manager":[
+            "name": "DU15",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tony. Dao - CMC Global G1",
-                  "email":"dtanh@cmcglobal.vn",
-                  "userName":"dtanh",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tony. Dao - CMC Global G1",
+                  "email": "dtanh@cmcglobal.vn",
+                  "userName": "dtanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU16",
-            "description":null,
-            "manager":[
+            "name": "DU16",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Erik. Nguyen - CMCGlobal DU6",
-                  "email":"nngiang@cmcglobal.vn",
-                  "userName":"nngiang",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Erik. Nguyen - CMCGlobal DU6",
+                  "email": "nngiang@cmcglobal.vn",
+                  "userName": "nngiang",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU18",
-            "description":null,
-            "manager":[
+            "name": "DU18",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Phuong. Nguyen Minh - CMCGlobal DU18",
-                  "email":"nmphuong1@cmcglobal.vn",
-                  "userName":"nmphuong1",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Phuong. Nguyen Minh - CMCGlobal DU18",
+                  "email": "nmphuong1@cmcglobal.vn",
+                  "userName": "nmphuong1",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU19",
-            "description":"",
-            "manager":[
+            "name": "DU19",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tony. Dao - CMC Global G1",
-                  "email":"dtanh@cmcglobal.vn",
-                  "userName":"dtanh",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tony. Dao - CMC Global G1",
+                  "email": "dtanh@cmcglobal.vn",
+                  "userName": "dtanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU20",
-            "description":"",
-            "manager":[
+            "name": "DU20",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tony. Dao - CMC Global G1",
-                  "email":"dtanh@cmcglobal.vn",
-                  "userName":"dtanh",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tony. Dao - CMC Global G1",
+                  "email": "dtanh@cmcglobal.vn",
+                  "userName": "dtanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BU1",
-            "description":"",
-            "manager":[
+            "name": "BU1",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tuong. Lang Vinh  - CMC Global CSO",
-                  "email":"lvtuong@cmcglobal.vn",
-                  "userName":"lvtuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tony. Dao - CMC Global G1",
+                  "email": "dtanh@cmcglobal.vn",
+                  "userName": "dtanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          }
       ]
    },
    {
-      "name":"G3",
-      "desciption":"DU 1,9,11,21, SDU, SBU, BU3",
-      "manager":[
+      "name": "G3",
+      "desciption": "DU 1,9,11,21, SDU, SBU, BU3",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Bach. Nguyen Viet - CMC Global CDO",
-            "email":"nvbach@cmcglobal.vn",
-            "userName":"nvbach",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Bach. Nguyen Viet - CMC Global CDO",
+            "email": "nvbach@cmcglobal.vn",
+            "userName": "nvbach",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[
+      "listChild": [
          {
-            "name":"DU1",
-            "description":"",
-            "manager":[
+            "name": "DU1",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Viet. Nguyen Tuan - CMC Global DU1",
-                  "email":"ntviet2@cmcglobal.vn",
-                  "userName":"ntviet2",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Viet. Nguyen Tuan - CMC Global DU1",
+                  "email": "ntviet2@cmcglobal.vn",
+                  "userName": "ntviet2",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU9",
-            "description":"",
-            "manager":[
+            "name": "DU9",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Hieu. Nguyen Trung - CMCGlobal DU9",
-                  "email":"nthieu5@cmcglobal.vn",
-                  "userName":"nthieu5",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Hieu. Nguyen Trung - CMCGlobal DU9",
+                  "email": "nthieu5@cmcglobal.vn",
+                  "userName": "nthieu5",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU11",
-            "description":"",
-            "manager":[
+            "name": "DU11",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Phuong. Nguyen Tran - CMCGlobal DU11",
-                  "email":"ntphuong5@cmcglobal.vn",
-                  "userName":"ntphuong5",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Phuong. Nguyen Tran - CMCGlobal DU11",
+                  "email": "ntphuong5@cmcglobal.vn",
+                  "userName": "ntphuong5",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DU21",
-            "description":null,
-            "manager":[
+            "name": "DU21",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Quang. Nguyen Nhat - CMCGlobal DU21",
-                  "email":"nnquang@cmcglobal.vn",
-                  "userName":"nnquang",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Quang. Nguyen Nhat - CMCGlobal DU21",
+                  "email": "nnquang@cmcglobal.vn",
+                  "userName": "nnquang",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BU3",
-            "description":"",
-            "manager":[
+            "name": "BU3",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Carol. Tran  - CMCGlobal BU",
-                  "email":"ttsen@cmcglobal.vn",
-                  "userName":"ttsen",
-                  "gender":0,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Carol. Tran  - CMCGlobal BU",
+                  "email": "ttsen@cmcglobal.vn",
+                  "userName": "ttsen",
+                  "gender": 0,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"SDU",
-            "desciption":"Singapore Delivery Unit",
-            "manager":[
+            "name": "SDU",
+            "desciption": "Singapore Delivery Unit",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Bach. Nguyen Viet - CMC Global CDO",
-                  "email":"nvbach@cmcglobal.vn",
-                  "userName":"nvbach",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Bach. Nguyen Viet - CMC Global CDO",
+                  "email": "nvbach@cmcglobal.vn",
+                  "userName": "nvbach",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"SBU",
-            "desciption":"Singapore Business Development Unit",
-            "manager":[
+            "name": "SBU",
+            "desciption": "Singapore Business Development Unit",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Bach. Nguyen Viet - CMC Global CDO",
-                  "email":"nvbach@cmcglobal.vn",
-                  "userName":"nvbach",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Bach. Nguyen Viet - CMC Global CDO",
+                  "email": "nvbach@cmcglobal.vn",
+                  "userName": "nvbach",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          }
       ]
    },
    {
-      "name":"CJP",
-      "desciption":"DJ1,2,7,10, BJ1,2,3",
-      "manager":[
+      "name": "CJP",
+      "desciption": "DJ1,2,7,10, BJ1,2,3",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Hang. Nguyen Thi Thu - CMC Global EVP/CMC Japan CEO",
-            "email":"ntthang1@cmc-japan.co.jp",
-            "userName":"ntthang1",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Hang. Nguyen Thi Thu - CMC Global EVP/CMC Japan CEO",
+            "email": "ntthang1@cmc-japan.co.jp",
+            "userName": "ntthang1",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[
+      "listChild": [
          {
-            "name":"DJ1",
-            "desciption":null,
-            "manager":[
+            "name": "DJ1",
+            "desciption": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Vuong. Nguyen Dang Quoc - CMC Japan DJ1",
-                  "email":"ndqvuong@cmc-japan.co.jp",
-                  "userName":"ndqvuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Vuong. Nguyen Dang Quoc - CMC Japan DJ1",
+                  "email": "ndqvuong@cmc-japan.co.jp",
+                  "userName": "ndqvuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DJ2",
-            "description":"",
-            "manager":[
+            "name": "DJ2",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Canh. Ngo Xuan  - CMC Japan DJ2 Director",
-                  "email":"nxcanh@cmcglobal.vn",
-                  "userName":"nxcanh",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Canh. Ngo Xuan  - CMC Japan DJ2 Director",
+                  "email": "nxcanh@cmcglobal.vn",
+                  "userName": "nxcanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DJ7",
-            "description":"",
-            "manager":[
+            "name": "DJ7",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Nam. Tran Hoai - CMC Japan DJ7 Director",
-                  "email":"thnam4@cmcglobal.vn",
-                  "userName":"thnam4",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Nam. Tran Hoai - CMC Japan DJ7 Director",
+                  "email": "thnam4@cmcglobal.vn",
+                  "userName": "thnam4",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DJ10",
-            "description":"",
-            "manager":[
+            "name": "DJ10",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Doanh. Nguyen The - CMCGlobal DJ10",
-                  "email":"ntdoanh@cmcglobal.vn",
-                  "userName":"ntdoanh",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Doanh. Nguyen The - CMCGlobal DJ10",
+                  "email": "ntdoanh@cmcglobal.vn",
+                  "userName": "ntdoanh",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BJ1",
-            "description":"",
-            "manager":[
+            "name": "BJ1",
+            "description": "",
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Nguyen. Nguyen Duc - CMC Japan BJ1",
-                  "email":"ndnguyen@cmc-japan.co.jp",
-                  "userName":"nqnguyen",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Nguyen. Nguyen Duc - CMC Japan BJ1",
+                  "email": "ndnguyen@cmc-japan.co.jp",
+                  "userName": "nqnguyen",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BJ2",
-            "desciption":null,
-            "manager":[
+            "name": "BJ2",
+            "desciption": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Vuong. Nguyen Dang Quoc - CMC Japan DJ1",
-                  "email":"ndqvuong@cmc-japan.co.jp",
-                  "userName":"ndqvuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Vuong. Nguyen Dang Quoc - CMC Japan DJ1",
+                  "email": "ndqvuong@cmc-japan.co.jp",
+                  "userName": "ndqvuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BJ3",
-            "desciption":null,
-            "manager":[
+            "name": "BJ3",
+            "desciption": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Bao. Dang Ngoc - CMC Global CEO",
-                  "email":"dnbao@cmcglobal.vn",
-                  "userName":"dnbao",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Bao. Dang Ngoc - CMC Global CEO",
+                  "email": "dnbao@cmcglobal.vn",
+                  "userName": "dnbao",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          }
       ]
    },
    {
-      "name":"GEU",
-      "desciption":"DE1, 2, BE1",
-      "manager":[
+      "name": "GEU",
+      "desciption": "DE1, 2, BE1",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Cuong. Nguyen Cao - CMC Global GEU",
-            "email":"nccuong@cmcglobal.vn",
-            "userName":"nccuong",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Cuong. Nguyen Cao - CMC Global GEU",
+            "email": "nccuong@cmcglobal.vn",
+            "userName": "nccuong",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[
+      "listChild": [
          {
-            "name":"DE1",
-            "description":null,
-            "manager":[
+            "name": "DE1",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Thanh. Tran Van - CMCGlobal DE1",
-                  "email":"tvthanh2@cmcglobal.vn",
-                  "userName":"tvthanh2",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Thanh. Tran Van - CMCGlobal DE1",
+                  "email": "tvthanh2@cmcglobal.vn",
+                  "userName": "tvthanh2",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"DE2",
-            "description":null,
-            "manager":[
+            "name": "DE2",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Cuong. Nguyen Cao - CMC Global GEU",
-                  "email":"nccuong@cmcglobal.vn",
-                  "userName":"nccuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Cuong. Nguyen Cao - CMC Global GEU",
+                  "email": "nccuong@cmcglobal.vn",
+                  "userName": "nccuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"BE1",
-            "description":null,
-            "manager":[
+            "name": "BE1",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Cuong. Nguyen Cao - CMC Global GEU",
-                  "email":"nccuong@cmcglobal.vn",
-                  "userName":"nccuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Cuong. Nguyen Cao - CMC Global GEU",
+                  "email": "nccuong@cmcglobal.vn",
+                  "userName": "nccuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          }
       ]
    },
    {
-      "name":"MEGA",
-      "desciption":"MBU1,2,3, MAR",
-      "manager":[
+      "name": "MEGA",
+      "desciption": "MBU1,2,3, MAR",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Tuong. Lang Vinh  - CMC Global CSO",
-            "email":"lvtuong@cmcglobal.vn",
-            "userName":"lvtuong",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Tuong. Lang Vinh  - CMC Global CSO",
+            "email": "lvtuong@cmcglobal.vn",
+            "userName": "lvtuong",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[
+      "listChild": [
          {
-            "name":"MBU1",
-            "description":null,
-            "manager":[
+            "name": "MBU1",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tuong. Lang Vinh  - CMC Global CSO",
-                  "email":"lvtuong@cmcglobal.vn",
-                  "userName":"lvtuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tuong. Lang Vinh  - CMC Global CSO",
+                  "email": "lvtuong@cmcglobal.vn",
+                  "userName": "lvtuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"MBU2",
-            "description":null,
-            "manager":[
+            "name": "MBU2",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Windy. Vu - CMCGlobal MBU2",
-                  "email":"vtathu@cmcglobal.vn",
-                  "userName":"vtathu",
-                  "gender":0,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Windy. Vu - CMCGlobal MBU2",
+                  "email": "vtathu@cmcglobal.vn",
+                  "userName": "vtathu",
+                  "gender": 0,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"MBU3",
-            "description":null,
-            "manager":[
+            "name": "MBU3",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Tuong. Lang Vinh  - CMC Global CSO",
-                  "email":"lvtuong@cmcglobal.vn",
-                  "userName":"lvtuong",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Tuong. Lang Vinh  - CMC Global CSO",
+                  "email": "lvtuong@cmcglobal.vn",
+                  "userName": "lvtuong",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          },
          {
-            "name":"MAR",
-            "description":null,
-            "manager":[
+            "name": "MAR",
+            "description": null,
+            "manager": [
                {
-                  "id":null,
-                  "fullName":"Minh. Phi Tuan - CMCGlobal Marketing",
-                  "email":"ptminh1@cmcglobal.vn",
-                  "userName":"ptminh1",
-                  "gender":1,
-                  "fromDate":null,
-                  "createdDate":null,
-                  "updatedDate":null,
-                  "createdBy":null,
-                  "updatedBy":null
+                  "id": null,
+                  "fullName": "Minh. Phi Tuan - CMCGlobal Marketing",
+                  "email": "ptminh1@cmcglobal.vn",
+                  "userName": "ptminh1",
+                  "gender": 1,
+                  "fromDate": null,
+                  "createdDate": null,
+                  "updatedDate": null,
+                  "createdBy": null,
+                  "updatedBy": null
                }
             ]
          }
       ]
    },
    {
-      "name":"TA",
-      "desciption":"",
-      "manager":[
+      "name": "TA",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Chu. Nguyen Quoc - CMCGlobal TAD",
-            "email":"nqchu@cmcglobal.vn",
-            "userName":"nqchu",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Chu. Nguyen Quoc - CMCGlobal TAD",
+            "email": "nqchu@cmcglobal.vn",
+            "userName": "nqchu",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"TD",
-      "desciption":"",
-      "manager":[
+      "name": "TD",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Duong. Le Thi Thuy - CMC Global TDD",
-            "email":"lttduong@cmcglobal.vn",
-            "userName":"lttduong",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Duong. Le Thi Thuy - CMC Global TDD",
+            "email": "lttduong@cmcglobal.vn",
+            "userName": "lttduong",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"HR",
-      "desciption":"",
-      "manager":[
+      "name": "HR",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Nhan. Nguyen Thanh - CMC Global HR",
-            "email":"ntnhan@cmcglobal.vn",
-            "userName":"ntnhan",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Nhan. Nguyen Thanh - CMC Global HR",
+            "email": "ntnhan@cmcglobal.vn",
+            "userName": "ntnhan",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"FC",
-      "desciption":"",
-      "manager":[
+      "name": "FC",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Hoa. Hoang Thi Thanh - CMCGlobal CFO",
-            "email":"htthoa@cmcglobal.vn",
-            "userName":"htthoa",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Hoa. Hoang Thi Thanh - CMCGlobal CFO",
+            "email": "htthoa@cmcglobal.vn",
+            "userName": "htthoa",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"ACC",
-      "desciption":"",
-      "manager":[
+      "name": "ACC",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Hoa. Hoang Thi Thanh - CMCGlobal CFO",
-            "email":"htthoa@cmcglobal.vn",
-            "userName":"htthoa",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Hoa. Hoang Thi Thanh - CMCGlobal CFO",
+            "email": "htthoa@cmcglobal.vn",
+            "userName": "htthoa",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"LEG",
-      "desciption":"",
-      "manager":[
+      "name": "LEG",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Dung.Phan Thi Phuong - CMC Global LEG",
-            "email":"ptpdung@cmcglobal.vn",
-            "userName":"ptpdung",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Dung.Phan Thi Phuong - CMC Global LEG",
+            "email": "ptpdung@cmcglobal.vn",
+            "userName": "ptpdung",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"SEPG",
-      "desciption":"",
-      "manager":[
+      "name": "SEPG",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Ngoc. Le Thi Bich - CMC Global SEPG",
-            "email":"ltbngoc@cmcglobal.vn",
-            "userName":"ltbngoc",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Ngoc. Le Thi Bich - CMC Global SEPG",
+            "email": "ltbngoc@cmcglobal.vn",
+            "userName": "ltbngoc",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"ADMIN",
-      "desciption":"",
-      "manager":[
+      "name": "ADMIN",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Huong. Bui Thi Lan - CMCGlobal ADMIN",
-            "email":"btlhuong@cmcglobal.vn",
-            "userName":"btlhuong",
-            "gender":0,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Huong. Bui Thi Lan - CMCGlobal ADMIN",
+            "email": "btlhuong@cmcglobal.vn",
+            "userName": "btlhuong",
+            "gender": 0,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"TDX",
-      "desciption":"",
-      "manager":[
+      "name": "TDX",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Chau. Bui Ngoc - CMCGlobal TDX",
-            "email":"bnchau@cmcglobal.vn",
-            "userName":"bnchau",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Chau. Bui Ngoc - CMCGlobal TDX",
+            "email": "bnchau@cmcglobal.vn",
+            "userName": "bnchau",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    },
    {
-      "name":"IT",
-      "desciption":"",
-      "manager":[
+      "name": "IT",
+      "desciption": "",
+      "manager": [
          {
-            "id":null,
-            "fullName":"Dung. Tran Anh - CMCGlobal IT",
-            "email":"tadung@cmcglobal.vn",
-            "userName":"tadung",
-            "gender":1,
-            "fromDate":null,
-            "createdDate":null,
-            "updatedDate":null,
-            "createdBy":null,
-            "updatedBy":null
+            "id": null,
+            "fullName": "Dung. Tran Anh - CMCGlobal IT",
+            "email": "tadung@cmcglobal.vn",
+            "userName": "tadung",
+            "gender": 1,
+            "fromDate": null,
+            "createdDate": null,
+            "updatedDate": null,
+            "createdBy": null,
+            "updatedBy": null
          }
       ],
-      "listChild":[]
+      "listChild": []
    }
 ]
